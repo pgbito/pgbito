@@ -2,7 +2,7 @@
 Bueno, no se que hago con mi vida, pero estoy aprendiendo a programar en C++, Python, Java, Kotlin, y hacer mas weas en JavasScript
 ``` 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">CostaRican Developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/pgbito" target="blank"><img src="https://img.shields.io/twitter/follow/pgbito?logo=twitter&style=for-the-badge" alt="pgbito" /></a> </p>
 
