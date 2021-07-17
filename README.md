@@ -2,7 +2,7 @@
 Bueno, no se que hago con mi vida, pero estoy aprendiendo a programar en C++, Python, Java, Kotlin, y hacer mas weas en JavasScript
 ``` 
 
-<h3 align="center">CostaRican Developer.</h3>
+<h1 align="center">CostaRican Developer.</h1>
 
 <p align="left"> <a href="https://twitter.com/u_leiuw" target="blank"><img src="https://img.shields.io/twitter/follow/u_leiuw?logo=twitter&style=for-the-badge" alt="u_leiuw" /></a> </p>
 
