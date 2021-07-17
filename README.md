@@ -4,11 +4,11 @@ Bueno, no se que hago con mi vida, pero estoy aprendiendo a programar en C++, Py
 
 <h3 align="center">CostaRican Developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/pgbito" target="blank"><img src="https://img.shields.io/twitter/follow/pgbito?logo=twitter&style=for-the-badge" alt="pgbito" /></a> </p>
+<p align="left"> <a href="https://twitter.com/u_leiuw" target="blank"><img src="https://img.shields.io/twitter/follow/u_leiuw?logo=twitter&style=for-the-badge" alt="u_leiuw" /></a> </p>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://twitter.com/pgbito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgbito" height="30" width="40" /></a>
+<a href="https://twitter.com/u_leiuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="u_leiuw" height="30" width="40" /></a>
 <a href="https://discord.gg/VJktWyuaxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VJktWyuaxz" height="30" width="40" /></a>
 </p>
 
