@@ -1,5 +1,7 @@
 
-
+hi random user from github! 👋
+i'm just a nerd, expert on CSS, Python, Flutter, Javascript, Java, HTML, NodeJS
+if you want you can follow me <3
 
 
 <p align="left"> <a href="https://twitter.com/u_leiuw" target="blank"><img src="https://img.shields.io/twitter/follow/u_leiuw?logo=twitter&style=for-the-badge" alt="u_leiuw" /></a> </p>
